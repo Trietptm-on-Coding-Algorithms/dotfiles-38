@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/'
+let g:netrw_dirhist_3='/tmp'
+let g:netrw_dirhist_2='/tmp/vim-go00aaf1a28226099cc986b018303bae9c7d3c124e8c138064756cd28f03ad53e8'
+let g:netrw_dirhist_1='/home/vancir/Documents/project/syzkaller/syz-manager'
